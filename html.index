@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Cowboy Hat Truth Consigliere</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background: #111;
+            color: #ddd;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #fff;
+            font-family: 'Arial Black', sans-serif;
+        }
+        h1 { font-size: 2.8em; text-align: center; margin-bottom: 10px; }
+        .tagline { text-align: center; font-style: italic; color: #aaa; margin-bottom: 40px; }
+        img {
+            width: 100%;
+            max-width: 600px;
+            display: block;
+            margin: 30px auto;
+            border: 4px solid #333;
+        }
+        .section { margin: 40px 0; }
+        strong { color: #ffcc00; }
+        ul { padding-left: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>The Cowboy Hat Truth Consigliere</h1>
+    <p class="tagline">I read your micro-expressions, quote the generals, and tell you "that's fucking dogshit try again" while your team nods politely.</p>
+
+    <img src="YOUR-COWBOY-HAT-PHOTO.jpg" alt="Jacob 'Jack' Ford - Cowboy Hat Truth Consigliere">
+
+    <div class="section">
+        <h2>Jacob "Jack" Ford</h2>
+        <p>Starving for outside perspective from a slightly autistic polymath?</p>
+        <p>You've found the solution — the Truth Time Consigliere.</p>
+        <p>With cowboy hat, hoodie, potential chain smoking and casual swearing.</p>
+    </div>
+
+    <div class="section">
+        <h2>Unfiltered Facts</h2>
+        <p>I am about the truth. I cannot stand a falsehood, a fallacy, or a corporate lie.</p>
+        <p><strong>Here is where corporate lies go to die and the truth lives.</strong></p>
+        <p>You don't need to be fluffed up. You're already successful. You need hard facts!</p>
+        <p>Think of how many millions and billions corporations have lost to lies and games because nobody said: "that's damned stupid" or "they're a fucking liar." Bud Light. Nuff said.</p>
+    </div>
+
+    <div class="section">
+        <h2>Lol</h2>
+        <p>I call out bullshit from a mile away.</p>
+        <p>For deep analysis I leverage many frontier AI models.</p>
+        <p>Don't fall victim to yes men and women and sycophants.</p>
+        <p><strong>Anti-Yes Man | Truth Time Consigliere</strong></p>
+        <p>(Cowboy hat is optional. Hoodie is not optional. Extra fee will apply for suit and
